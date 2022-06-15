@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Steven + Princeps Coding Sesh</string>
+    <string name="check_permission">Check Permission</string>
+    <string name="neccessary_persmissions">Necessary Permission</string>
+    <string name="need_permissions_desc">Denying our application\'s permissions will disable some features. Would you like to accept the needed permissions?</string>
+    <string name="thank_you">Thank You for granting our app permissions!</string>
+
+</resources>
